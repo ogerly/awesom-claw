@@ -1,4 +1,4 @@
-```markdown
+
 # Cloud United  
 ### OpenClaw & Open Agent Ecosystem Index
 
@@ -170,4 +170,4 @@ Optional but welcome:
 
 This repository is an **independent ecosystem index**.  
 All trademarks and project names belong to their respective owners.
-```
+
